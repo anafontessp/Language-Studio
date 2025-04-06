@@ -19,8 +19,10 @@ Aplicar os conhecimentos de processamento de linguagem natural (NLP) utilizando 
 
 ## 📸 Resultados
 
-![Print 1](prints/analise1.png)
-![Print 2](prints/analise2.png)
+![Print 1](prints/Teste1.png)
+![Print 2](prints/Teste2.png)
+![Print 3](prints/Teste3.png)
+![Print 4](prints/Teste4.png)
 
 ## 🚀 Possibilidades futuras
 
